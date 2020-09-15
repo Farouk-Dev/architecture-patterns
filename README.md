@@ -1,2 +1,2 @@
 # architecture-patterns
-android architecture pattern : MVC, MVP, MVVM
+android architecture pattern : MVC, MVP, MVVM + DataBinding
